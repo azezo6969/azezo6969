@@ -24,14 +24,25 @@ Saya adalah **pemula di dunia pemrograman** yang sedang menapaki jalan menuju **
 ---
 
 ## 🧭 Status
-![Status](https://img.shields.io/badge/Learning-Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![Goal](https://img.shields.io/badge/Target-Cyber%20Security%20Analyst-red?style=for-the-badge&logo=cybersecurity&logoColor=white)
-![Mindset](https://img.shields.io/badge/Progress-Never%20Stop%20Learning-00b894?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-On%20Skills%20Not%20Titles-yellow?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-Basic-lightgrey?style=flat-square&logo=cisco)
-![TJKT Learner](https://img.shields.io/badge/TJKT%20Student-Cyber%20Security%20Path-orange?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Pelajar TJKT](https://img.shields.io/badge/Pelajar-TJKT-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Taken](https://img.shields.io/badge/relationship-Taken-black?style=flat-square&logo=heart)
+<p align="center">
+
+  <!-- Status & Goal -->
+  <img src="https://img.shields.io/badge/Learning-Python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Target-Cyber%20Security%20Analyst-red?style=for-the-badge&logo=cybersecurity&logoColor=white">
+  
+  <!-- Mindset & Focus -->
+  <img src="https://img.shields.io/badge/Progress-Never%20Stop%20Learning-00b894?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-On%20Skills%20Not%20Titles-yellow?style=for-the-badge">
+  
+  <!-- Education & Path -->
+  <img src="https://img.shields.io/badge/TJKT%20Student-Cyber%20Security%20Path-orange?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Pelajar-TJKT-blue?style=for-the-badge&logo=graduation-cap&logoColor=white">
+
+  <!-- Networking & Status -->
+  <img src="https://img.shields.io/badge/Networking-Basic-lightgrey?style=flat-square&logo=cisco">
+  <img src="https://img.shields.io/badge/Relationship-Taken-%23ff69b4?style=for-the-badge&logo=heart&logoColor=white" alt="Taken Badge" />
+
+</p>
 
 ---
 
@@ -61,6 +72,8 @@ Saya terbuka untuk berdiskusi, kolaborasi, dan mentorship:
 
 - ✉️ Email Pribadi: azezo696969@gmail.com  
 - 💼 Email Bisnis/Organisasi: hermeseyesteam@gmail.com
+- 🎩 Instagram Pribadi: https://www.instagram.com/zaviron_?igsh=cHF1NnNvZGticzlh
+- 🎯 Instagram Bisnis/Organisasi: https://www.instagram.com/hermeseyesteam
 
 ---
 
@@ -68,17 +81,20 @@ Saya terbuka untuk berdiskusi, kolaborasi, dan mentorship:
 
 Saya juga aktif membangun dan belajar bersama tim:
 
-### 🛡️ Hermes Eyes Team
+### 🛡️ Hermes Eyes
 - Organisasi kecil pelajar yang fokus pada **Cyber Security, Open Source, dan Kolaborasi Belajar**.
 - Visi: "Belajar bersama, tumbuh bersama, melindungi dunia digital bersama."
 - Saat ini kami fokus pada:
   - Penelitian dasar keamanan jaringan
   - Simulasi lab virtual pentest
   - Workshop & belajar bareng via Discord
+    
+- Jangan lupa untuk bergabung ya!, semua orang diterima!
 
 📫 Kontak bisnis tim: **hermeseyesteam@gmail.com**
-- ![Hermes Eyes Team](https://img.shields.io/badge/Team-Hermes%20Eyes-blueviolet?style=for-the-badge&logo=shield&logoColor=white)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Team-Hermes%20Eyes-blueviolet?style=for-the-badge&logo=shield&logoColor=white">
+</p>
 Jangan sungkan untuk menghubungi saya!
 
 ---
@@ -92,21 +108,9 @@ Jangan sungkan untuk menghubungi saya!
 ---
 
 <p align="center">
-
-  <!-- Status & Goal -->
-  <img src="https://img.shields.io/badge/Learning-Python-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Target-Cyber%20Security%20Analyst-red?style=for-the-badge&logo=cybersecurity&logoColor=white">
-  
-  <!-- Mindset & Focus -->
-  <img src="https://img.shields.io/badge/Progress-Never%20Stop%20Learning-00b894?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-On%20Skills%20Not%20Titles-yellow?style=for-the-badge">
-  
-  <!-- Education & Path -->
-  <img src="https://img.shields.io/badge/TJKT%20Student-Cyber%20Security%20Path-orange?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/Pelajar-TJKT-blue?style=for-the-badge&logo=graduation-cap&logoColor=white">
-
-  <!-- Networking & Status -->
-  <img src="https://img.shields.io/badge/Networking-Basic-lightgrey?style=flat-square&logo=cisco">
-  <img src="https://img.shields.io/badge/Relationship-Taken-%23ff69b4?style=for-the-badge&logo=heart&logoColor=white" alt="Taken Badge" />
-
+<img src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" alt="Creative Commons License"/>
+  <img src="https://img.shields.io/badge/Protected%20By-GitHub%20DMCA-blue?style=for-the-badge&logo=github" alt="DMCA Badge">
+  <img src="https://img.shields.io/badge/Identity-Protected-critical?style=for-the-badge" alt="Protected Identity Badge">
+  <img src="https://img.shields.io/badge/All%20Rights-Reserved-red?style=for-the-badge" alt="All Rights Reserved Badge">
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security%20%26%20Tools-success?style=for-the-badge" alt="Focus Badge">
 </p>
