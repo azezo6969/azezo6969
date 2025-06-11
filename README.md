@@ -31,6 +31,7 @@ Saya adalah **pemula di dunia pemrograman** yang sedang menapaki jalan menuju **
 ![Networking](https://img.shields.io/badge/Networking-Basic-lightgrey?style=flat-square&logo=cisco)
 ![TJKT Learner](https://img.shields.io/badge/TJKT%20Student-Cyber%20Security%20Path-orange?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Pelajar TJKT](https://img.shields.io/badge/Pelajar-TJKT-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Taken](https://img.shields.io/badge/relationship-Taken-black?style=flat-square&logo=heart)
 
 ---
 
