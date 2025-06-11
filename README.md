@@ -20,6 +20,10 @@ Saya adalah **pemula di dunia pemrograman** yang sedang menapaki jalan menuju **
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🧭 Status
 ![Status](https://img.shields.io/badge/Learning-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Goal](https://img.shields.io/badge/Target-Cyber%20Security%20Analyst-red?style=for-the-badge&logo=cybersecurity&logoColor=white)
 ![Mindset](https://img.shields.io/badge/Progress-Never%20Stop%20Learning-00b894?style=for-the-badge)
