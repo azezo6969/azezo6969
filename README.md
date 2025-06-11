@@ -26,7 +26,7 @@ Saya adalah **pemula di dunia pemrograman** yang sedang menapaki jalan menuju **
 ![Focus](https://img.shields.io/badge/Focus-On%20Skills%20Not%20Titles-yellow?style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-Basic-lightgrey?style=flat-square&logo=cisco)
 ![TJKT Learner](https://img.shields.io/badge/TJKT%20Student-Cyber%20Security%20Path-orange?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Pelajar TJKT](https://img.shields.io/badge/Pelajar-TJKT-blue?style=for-the-badge&logo=graduation-cap&logoColor=white))
+![Pelajar TJKT](https://img.shields.io/badge/Pelajar-TJKT-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 ---
 
@@ -44,9 +44,9 @@ Saya akan mulai membangun proyek kecil dan mendokumentasikannya di GitHub ini.
 ---
 
 ## 🎯 Perjalanan Menuju Cyber Security:
-📅 2025: Fokus Python + dasar keamanan jaringan
-📅 2026: Belajar ethical hacking & tools CTF 
-📅 2027: Siap bersertifikasi dan bekerja di dunia cyber security!
+- 📅 2025: Fokus Python + dasar keamanan jaringan
+- 📅 2026: Belajar ethical hacking & tools CTF 
+- 📅 2027: Siap bersertifikasi dan bekerja di dunia cyber security!
 
 ---
 
