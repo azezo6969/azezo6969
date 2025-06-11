@@ -1,8 +1,8 @@
 # License - All Rights Reserved
 
-Copyright © 2025 Abdi
+Copyright © 2025 AZE
 
-All content in this repository is the intellectual property of Abdi — Hermes Eyes Team.
+All content in this repository is the intellectual property of AZE — Hermes Eyes Team.
 
 You may **not** use, copy, modify, fork, clone, download, or distribute any part of this repository, in whole or in part, for any purpose without explicit written permission from the copyright holder.
 
