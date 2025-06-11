@@ -76,7 +76,7 @@ Saya juga aktif membangun dan belajar bersama tim:
   - Workshop & belajar bareng via Discord
 
 📫 Kontak bisnis tim: **hermeseyesteam@gmail.com**
-![Hermes Eyes Team](https://img.shields.io/badge/Team-Hermes%20Eyes-blueviolet?style=for-the-badge&logo=shield&logoColor=white)
+- ![Hermes Eyes Team](https://img.shields.io/badge/Team-Hermes%20Eyes-blueviolet?style=for-the-badge&logo=shield&logoColor=white)
 
 Jangan sungkan untuk menghubungi saya!
 
@@ -84,7 +84,6 @@ Jangan sungkan untuk menghubungi saya!
 
 ## 🧭 Roadmap Belajar Saya
 
-```mermaid
 graph TD
   A(Mulai Belajar Python) --> B(Belajar Dasar-dasar Jaringan)
   B --> C(Memahami Sistem Operasi Linux)
