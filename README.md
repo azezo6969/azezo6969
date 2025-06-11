@@ -80,19 +80,5 @@ Saya juga aktif membangun dan belajar bersama tim:
 
 Jangan sungkan untuk menghubungi saya!
 
----
-
-## 🧭 Roadmap Belajar Saya
-
-graph TD
-  A(Mulai Belajar Python) --> B(Belajar Dasar-dasar Jaringan)
-  B --> C(Memahami Sistem Operasi Linux)
-  C --> D(Mengenal Tools Pentesting: Nmap, Wireshark)
-  D --> E(Menyelesaikan Tantangan TryHackMe/OverTheWire)
-  E --> F(Buat Lab Virtual Sendiri)
-  F --> G(Mendalami Ethical Hacking)
-  G --> H(Sertifikasi Dasar: CompTIA, CEH, dsb.)
-  H --> I(Membangun Portofolio di GitHub)
-  I --> J(Melamar Posisi Intern/Junior Analyst)
 
 > _“Belajar bukan tentang siapa yang paling cepat, tapi siapa yang paling gigih.”_
