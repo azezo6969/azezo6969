@@ -59,10 +59,41 @@ Saya akan mulai membangun proyek kecil dan mendokumentasikannya di GitHub ini.
 Saya terbuka untuk berdiskusi, kolaborasi, dan mentorship:
 
 - ✉️ Email Pribadi: azezo696969@gmail.com  
-- 💼 Email Bisnis/Organisasi: hermeseyesteam@gmail.com  
+- 💼 Email Bisnis/Organisasi: hermeseyesteam@gmail.com
+
+---
+
+## 🤝 Tim & Organisasi
+
+Saya juga aktif membangun dan belajar bersama tim:
+
+### 🛡️ Hermes Eyes Team
+- Organisasi kecil pelajar yang fokus pada **Cyber Security, Open Source, dan Kolaborasi Belajar**.
+- Visi: "Belajar bersama, tumbuh bersama, melindungi dunia digital bersama."
+- Saat ini kami fokus pada:
+  - Penelitian dasar keamanan jaringan
+  - Simulasi lab virtual pentest
+  - Workshop & belajar bareng via Discord
+
+📫 Kontak bisnis tim: **hermeseyesteam@gmail.com**
+![Hermes Eyes Team](https://img.shields.io/badge/Team-Hermes%20Eyes-blueviolet?style=for-the-badge&logo=shield&logoColor=white)
 
 Jangan sungkan untuk menghubungi saya!
 
 ---
+
+## 🧭 Roadmap Belajar Saya
+
+```mermaid
+graph TD
+  A(Mulai Belajar Python) --> B(Belajar Dasar-dasar Jaringan)
+  B --> C(Memahami Sistem Operasi Linux)
+  C --> D(Mengenal Tools Pentesting: Nmap, Wireshark)
+  D --> E(Menyelesaikan Tantangan TryHackMe/OverTheWire)
+  E --> F(Buat Lab Virtual Sendiri)
+  F --> G(Mendalami Ethical Hacking)
+  G --> H(Sertifikasi Dasar: CompTIA, CEH, dsb.)
+  H --> I(Membangun Portofolio di GitHub)
+  I --> J(Melamar Posisi Intern/Junior Analyst)
 
 > _“Belajar bukan tentang siapa yang paling cepat, tapi siapa yang paling gigih.”_
