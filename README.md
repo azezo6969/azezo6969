@@ -87,3 +87,8 @@ Jangan sungkan untuk menghubungi saya!
 ![Roadmap Cyber Security](./assets/63e9a90030fbdb18a6980b9bb64bc5d2.jpg)
 
 > _“Belajar bukan tentang siapa yang paling cepat, tapi siapa yang paling gigih.”_
+
+---
+
+![License: All Rights Reserved](https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=flat-square)
+![Protected](https://img.shields.io/badge/Protected%20by-Abdi%20%7C%20Hermes%20Eyes%20Team-critical?style=flat-square)
