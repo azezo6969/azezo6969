@@ -80,5 +80,10 @@ Saya juga aktif membangun dan belajar bersama tim:
 
 Jangan sungkan untuk menghubungi saya!
 
+---
+
+## 🗺️ Visual Roadmap Belajar Saya
+
+![Roadmap Cyber Security](./assets/63e9a90030fbdb18a6980b9bb64bc5d2.jpg)
 
 > _“Belajar bukan tentang siapa yang paling cepat, tapi siapa yang paling gigih.”_
