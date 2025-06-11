@@ -91,5 +91,22 @@ Jangan sungkan untuk menghubungi saya!
 
 ---
 
-![License: All Rights Reserved](https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=flat-square)
-![Protected](https://img.shields.io/badge/Protected%20by-AZE%20%7C%20Hermes%20Eyes%20Team-critical?style=flat-square)
+<p align="center">
+
+  <!-- Status & Goal -->
+  <img src="https://img.shields.io/badge/Learning-Python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Target-Cyber%20Security%20Analyst-red?style=for-the-badge&logo=cybersecurity&logoColor=white">
+  
+  <!-- Mindset & Focus -->
+  <img src="https://img.shields.io/badge/Progress-Never%20Stop%20Learning-00b894?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-On%20Skills%20Not%20Titles-yellow?style=for-the-badge">
+  
+  <!-- Education & Path -->
+  <img src="https://img.shields.io/badge/TJKT%20Student-Cyber%20Security%20Path-orange?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Pelajar-TJKT-blue?style=for-the-badge&logo=graduation-cap&logoColor=white">
+
+  <!-- Networking & Status -->
+  <img src="https://img.shields.io/badge/Networking-Basic-lightgrey?style=flat-square&logo=cisco">
+  <img src="https://img.shields.io/badge/Relationship-Taken-%23ff69b4?style=for-the-badge&logo=heart&logoColor=white" alt="Taken Badge" />
+
+</p>
