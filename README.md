@@ -25,8 +25,8 @@ Saya adalah **pemula di dunia pemrograman** yang sedang menapaki jalan menuju **
 ![Mindset](https://img.shields.io/badge/Progress-Never%20Stop%20Learning-00b894?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-On%20Skills%20Not%20Titles-yellow?style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-Basic-lightgrey?style=flat-square&logo=cisco)
-![CyberSecurity](https://img.shields.io/badge/CyberSecurity-Interested-informational?style=flat-square&logo=hackthebox)
-![TJKT](https://img.shields.io/badge/TJKT-Teknik%20Jaringan%20Komputer%20dan%20Telekomunikasi-blue?style=for-the-badge&logo=networkx&logoColor=white)
+![TJKT Learner](https://img.shields.io/badge/TJKT%20Student-Cyber%20Security%20Path-orange?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Pelajar TJKT](https://img.shields.io/badge/Pelajar-TJKT-blue?style=for-the-badge&logo=graduation-cap&logoColor=white))
 
 ---
 
