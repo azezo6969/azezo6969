@@ -99,9 +99,9 @@ Jangan sungkan untuk menghubungi saya!
 
 ---
 
-## 🗺️ Visual Roadmap Belajar Saya
+## 🔥 Thanks For
 
-![Roadmap Cyber Security](./assets/63e9a90030fbdb18a6980b9bb64bc5d2.jpg)
+![Roadmap Cyber Security](./assets/linux.jpg)
 
 > _“Belajar bukan tentang siapa yang paling cepat, tapi siapa yang paling gigih.”_
 
