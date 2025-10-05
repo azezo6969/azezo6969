@@ -40,7 +40,7 @@ Saya adalah **pemula di dunia pemrograman** yang sedang menapaki jalan menuju **
 
   <!-- Networking & Status -->
   <img src="https://img.shields.io/badge/Networking-Basic-lightgrey?style=flat-square&logo=cisco">
-  <img src="https://img.shields.io/badge/Loving-M-%23ff69b4?style=for-the-badge&logo=heart&logoColor=white" alt="Taken Badge" />
+  <img src="https://img.shields.io/badge/Loving-Q-%23ff69b4?style=for-the-badge&logo=heart&logoColor=white" alt="Taken Badge" />
 
 </p>
 
