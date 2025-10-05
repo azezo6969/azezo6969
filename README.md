@@ -72,7 +72,6 @@ Saya terbuka untuk berdiskusi, kolaborasi, dan mentorship:
 
 - ✉️ Email Pribadi: azezo696969@gmail.com  
 - 💼 Email Bisnis/Organisasi: hermeseyesteam@gmail.com
-- 🎩 Instagram Pribadi: https://www.instagram.com/zaviron_?igsh=cHF1NnNvZGticzlh
 - 🎯 Instagram Bisnis/Organisasi: https://www.instagram.com/hermeseyesteam
 
 ---
